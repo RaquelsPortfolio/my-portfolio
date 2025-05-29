@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name – Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Your Name</h1>
+    <p>Fashion & Mixed Media Artist with a passion for sustainability</p>
+    <nav>
+      <ul>
+        <li><a href="#illustrations">Illustrations</a></li>
+        <li><a href="#moodboards">Moodboards</a></li>
+        <li><a href="#fashion">Fashion Designs</a></li>
+        <li><a href="#photography">Photography</a></li>
+        <li><a href="#painting">Painting</a></li>
+        <li><a href="#mixed-media">Mixed Media</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      Welcome to my portfolio! I’m an artist dedicated to combining fashion, creativity, and sustainable practices. Each piece you’ll find here reflects not only my artistic vision but also my belief in ethical, environmentally-conscious design.
+    </p>
+  </section>
+
+  <!-- Gallery Sections: Just placeholders now, you can build these into separate pages or sections -->
+  <section id="illustrations">
+    <h2>Fashion Illustrations</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <section id="moodboards">
+    <h2>Moodboards</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <section id="fashion">
+    <h2>Fashion Designs</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <section id="photography">
+    <h2>Photography</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <section id="painting">
+    <h2>Painting</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <section id="mixed-media">
+    <h2>Mixed Media</h2>
+    <p>Gallery coming soon.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Name · Made with love and sustainability 🌱</p>
+  </footer>
+</body>
+</html>
